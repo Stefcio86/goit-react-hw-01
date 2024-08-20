@@ -1,4 +1,4 @@
-import Profile from "./components/Profile/Profile";
+import Profile from "./Profile";
 import userData from "./userData.json";
 
 const App = () => {
